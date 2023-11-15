@@ -1,6 +1,6 @@
 import random
 
-
+# OOPS
 class Board:
     def __init__(self):
         self.board = [" " for _ in range(9)]  # 3x3 Tic Tac Toe board
